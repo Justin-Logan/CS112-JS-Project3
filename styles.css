@@ -1,0 +1,29 @@
+body {
+    background-color: #8279799d;
+    
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+textarea {
+    resize: none;
+    background-color: rgba(193, 182, 182, 0.72);
+    height: 50vh;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1px 5px 1px 5px;
+    border-radius: 20px;
+    border-style: inset;
+    border-color: black;
+    margin-top: 5px;
+    padding: 6px 12px;
+    margin-bottom: 20px;
+}
+
+#input, #h1 {
+    margin: 0 auto;
+}
